@@ -1,0 +1,1 @@
+# cnt_msofficeaddon_qrcode_iban
